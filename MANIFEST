@@ -7,8 +7,8 @@ META.json
 META.yml
 Makefile.PL
 README
-lib/Error/errors.pod
 lib/errors.pm
+lib/errors.pod
 lib/errors/Design.pod
 t/assert.t
 t/basic.t
