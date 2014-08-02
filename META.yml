@@ -24,4 +24,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/error-errors-pm/issues
   homepage: https://github.com/ingydotnet/error-errors-pm
   repository: https://github.com/ingydotnet/error-errors-pm.git
-version: '0.06'
+version: '0.07'
