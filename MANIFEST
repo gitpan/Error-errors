@@ -10,6 +10,7 @@ README
 lib/errors.pm
 lib/errors.pod
 lib/errors/Design.pod
+t/000-compile-modules.t
 t/assert.t
 t/basic.t
 t/class.t
